@@ -27,7 +27,7 @@ Host: [Magda](http://www.cs.washington.edu/people/faculty/magda)
 #### 9:10am: PLDB
 Host: [Alvin](http://homes.cs.washington.edu/~akcheung/)
 
-- Cong:
+- [Cong](http://homes.cs.washington.edu/~congy/):Leveraging Lock Contention to Improve Transaction Application Performance
 - Maaz:
 
 #### 10:00am: Break
